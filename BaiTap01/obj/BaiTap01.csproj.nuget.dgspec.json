@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LTW\\BaiTap01\\BaiTap01.csproj": {}
+    "D:\\LTW (DNTU)\\BaiTap01\\BaiTap01.csproj": {}
   },
   "projects": {
-    "D:\\LTW\\BaiTap01\\BaiTap01.csproj": {
+    "D:\\LTW (DNTU)\\BaiTap01\\BaiTap01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LTW\\BaiTap01\\BaiTap01.csproj",
+        "projectUniqueName": "D:\\LTW (DNTU)\\BaiTap01\\BaiTap01.csproj",
         "projectName": "BaiTap01",
-        "projectPath": "D:\\LTW\\BaiTap01\\BaiTap01.csproj",
-        "packagesPath": "C:\\Users\\khoa3\\.nuget\\packages\\",
-        "outputPath": "D:\\LTW\\BaiTap01\\obj\\",
+        "projectPath": "D:\\LTW (DNTU)\\BaiTap01\\BaiTap01.csproj",
+        "packagesPath": "C:\\Users\\khoa\\.nuget\\packages\\",
+        "outputPath": "D:\\LTW (DNTU)\\BaiTap01\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\khoa3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\khoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -70,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
