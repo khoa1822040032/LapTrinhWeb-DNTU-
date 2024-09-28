@@ -12,11 +12,11 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-BaiKiemTra02-4876228e-b434-4a91-96a5-a56134a8d561")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-BaiKiemTra02-9bb3c0b3-5fe3-4286-a69c-f0dfea879ebb")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("BaiKiemTra02")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+304b4f74b40ecf4045dde678011423fd4dc02f29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f9bb7e887d0a4374ae391a7bd146747c1f31e1b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BaiKiemTra02")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BaiKiemTra02")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

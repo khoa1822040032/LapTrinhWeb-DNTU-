@@ -9,7 +9,8 @@ namespace BaiKiemTra02.Data
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {
+
         }
-        public DbSet<LopHoc> lophoc { get; set; }
+        public DbSet<LopHoc> LopHoc { get; set; }
     }
 }

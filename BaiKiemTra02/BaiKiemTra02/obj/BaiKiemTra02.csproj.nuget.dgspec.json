@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC MSI\\OneDrive\\Desktop\\BaiKiemTra02\\BaiKiemTra02\\BaiKiemTra02.csproj": {}
+    "D:\\LTASP\\New folder\\ASPweb\\BaiKiemTra02_\\BaiKiemTra02\\BaiKiemTra02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC MSI\\OneDrive\\Desktop\\BaiKiemTra02\\BaiKiemTra02\\BaiKiemTra02.csproj": {
+    "D:\\LTASP\\New folder\\ASPweb\\BaiKiemTra02_\\BaiKiemTra02\\BaiKiemTra02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC MSI\\OneDrive\\Desktop\\BaiKiemTra02\\BaiKiemTra02\\BaiKiemTra02.csproj",
+        "projectUniqueName": "D:\\LTASP\\New folder\\ASPweb\\BaiKiemTra02_\\BaiKiemTra02\\BaiKiemTra02.csproj",
         "projectName": "BaiKiemTra02",
-        "projectPath": "C:\\Users\\PC MSI\\OneDrive\\Desktop\\BaiKiemTra02\\BaiKiemTra02\\BaiKiemTra02.csproj",
-        "packagesPath": "C:\\Users\\PC MSI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC MSI\\OneDrive\\Desktop\\BaiKiemTra02\\BaiKiemTra02\\obj\\",
+        "projectPath": "D:\\LTASP\\New folder\\ASPweb\\BaiKiemTra02_\\BaiKiemTra02\\BaiKiemTra02.csproj",
+        "packagesPath": "C:\\Users\\MANH\\.nuget\\packages\\",
+        "outputPath": "D:\\LTASP\\New folder\\ASPweb\\BaiKiemTra02_\\BaiKiemTra02\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\PC MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\MANH\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,12 +59,6 @@
               "version": "[8.0.8, )"
             },
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
-              "target": "Package",
-              "version": "[8.0.8, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.8, )"
             },
