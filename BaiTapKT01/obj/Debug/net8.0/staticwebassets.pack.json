@@ -1,0 +1,861 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BaiTapKT01.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BaiTapKT01.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\css\\meyawo.css",
+      "PackagePath": "staticwebassets\\css\\meyawo.css"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\img\\anh chup\\Screenshot 2024-09-14 141159.png",
+      "PackagePath": "staticwebassets\\img\\anh chup\\Screenshot 2024-09-14 141159.png"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\img\\anh chup\\Screenshot 2024-09-14 141521.png",
+      "PackagePath": "staticwebassets\\img\\anh chup\\Screenshot 2024-09-14 141521.png"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\img\\anh chup\\Screenshot 2024-09-14 141551.png",
+      "PackagePath": "staticwebassets\\img\\anh chup\\Screenshot 2024-09-14 141551.png"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\img\\anh chup\\Screenshot 2024-09-14 141600.png",
+      "PackagePath": "staticwebassets\\img\\anh chup\\Screenshot 2024-09-14 141600.png"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\img\\anh chup\\Screenshot 2024-09-14 141611.png",
+      "PackagePath": "staticwebassets\\img\\anh chup\\Screenshot 2024-09-14 141611.png"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\img\\anh chup\\Screenshot 2024-09-14 141627.png",
+      "PackagePath": "staticwebassets\\img\\anh chup\\Screenshot 2024-09-14 141627.png"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\img\\anh chup\\Screenshot 2024-09-14 141637.png",
+      "PackagePath": "staticwebassets\\img\\anh chup\\Screenshot 2024-09-14 141637.png"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\img\\anh chup\\Screenshot 2024-09-14 141657.png",
+      "PackagePath": "staticwebassets\\img\\anh chup\\Screenshot 2024-09-14 141657.png"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\img\\anh chup\\Screenshot 2024-09-14 141714.png",
+      "PackagePath": "staticwebassets\\img\\anh chup\\Screenshot 2024-09-14 141714.png"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\imgs\\analytics.svg",
+      "PackagePath": "staticwebassets\\imgs\\analytics.svg"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\imgs\\avatar2.jpg",
+      "PackagePath": "staticwebassets\\imgs\\avatar2.jpg"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\imgs\\avatar3.jpg",
+      "PackagePath": "staticwebassets\\imgs\\avatar3.jpg"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\imgs\\banner.jpg",
+      "PackagePath": "staticwebassets\\imgs\\banner.jpg"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\imgs\\folio-1.jpg",
+      "PackagePath": "staticwebassets\\imgs\\folio-1.jpg"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\imgs\\folio-2.jpg",
+      "PackagePath": "staticwebassets\\imgs\\folio-2.jpg"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\imgs\\folio-3.jpg",
+      "PackagePath": "staticwebassets\\imgs\\folio-3.jpg"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\imgs\\img-1.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img-1.jpg"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\imgs\\img-2.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img-2.jpg"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\imgs\\man.png",
+      "PackagePath": "staticwebassets\\imgs\\man.png"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\imgs\\pencil-case.svg",
+      "PackagePath": "staticwebassets\\imgs\\pencil-case.svg"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\imgs\\responsive.svg",
+      "PackagePath": "staticwebassets\\imgs\\responsive.svg"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\imgs\\scooter.svg",
+      "PackagePath": "staticwebassets\\imgs\\scooter.svg"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\imgs\\shipped.svg",
+      "PackagePath": "staticwebassets\\imgs\\shipped.svg"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\imgs\\startup.svg",
+      "PackagePath": "staticwebassets\\imgs\\startup.svg"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\imgs\\toolbox.svg",
+      "PackagePath": "staticwebassets\\imgs\\toolbox.svg"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\js\\meyawo.js",
+      "PackagePath": "staticwebassets\\js\\meyawo.js"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\abstracts\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\abstracts\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\abstracts\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\abstracts\\_variables.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\base\\_base.scss",
+      "PackagePath": "staticwebassets\\scss\\base\\_base.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\base\\_typography.scss",
+      "PackagePath": "staticwebassets\\scss\\base\\_typography.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\components\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\components\\_button.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_button.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\components\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_card.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\components\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_code.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\components\\_hamburger.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_hamburger.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\components\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\components\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_footer.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_header.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\layout\\_sections.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_sections.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\meyawo.scss",
+      "PackagePath": "staticwebassets\\scss\\meyawo.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_alert.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_badge.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_card.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_close.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_code.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_custom-forms.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_forms.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_functions.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_grid.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_images.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_jumbotron.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_media.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_modal.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_nav.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_popover.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_print.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_progress.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_root.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_tables.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_type.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_variables.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_float.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_size.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_align.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_float.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_position.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\vendors\\bootstrap\\bootstrap.affix.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.affix.js"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\vendors\\bootstrap\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\vendors\\bootstrap\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\vendors\\bootstrap\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\vendors\\bootstrap\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\vendors\\bootstrap\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\vendors\\bootstrap\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\vendors\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\vendors\\bootstrap\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\vendors\\jquery\\jquery-3.4.1.js",
+      "PackagePath": "staticwebassets\\vendors\\jquery\\jquery-3.4.1.js"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\vendors\\jquery\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\vendors\\jquery\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\vendors\\jquery\\jquery-3.4.1.min.map",
+      "PackagePath": "staticwebassets\\vendors\\jquery\\jquery-3.4.1.min.map"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\vendors\\jquery\\jquery-3.4.1.slim.js",
+      "PackagePath": "staticwebassets\\vendors\\jquery\\jquery-3.4.1.slim.js"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\vendors\\jquery\\jquery-3.4.1.slim.min.js",
+      "PackagePath": "staticwebassets\\vendors\\jquery\\jquery-3.4.1.slim.min.js"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\vendors\\jquery\\jquery-3.4.1.slim.min.map",
+      "PackagePath": "staticwebassets\\vendors\\jquery\\jquery-3.4.1.slim.min.map"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\vendors\\themify-icons\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\vendors\\themify-icons\\css\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\vendors\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\vendors\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\vendors\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\vendors\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\vendors\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\vendors\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "D:\\LTW\\BaiTapKT01\\wwwroot\\vendors\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\vendors\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BaiTapKT01.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BaiTapKT01.props",
+      "PackagePath": "build\\BaiTapKT01.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BaiTapKT01.props",
+      "PackagePath": "buildMultiTargeting\\BaiTapKT01.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BaiTapKT01.props",
+      "PackagePath": "buildTransitive\\BaiTapKT01.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
