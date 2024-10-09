@@ -8233,19 +8233,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MANH\\.nuget\\packages\\": {}
+    "C:\\Users\\khoa\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LTASP\\New folder\\ASPweb\\BaiKiemTra02_\\BaiKiemTra02\\BaiKiemTra02.csproj",
+      "projectUniqueName": "D:\\LTW (DNTU)\\baikiemtra02\\BaiKiemTra02\\BaiKiemTra02.csproj",
       "projectName": "BaiKiemTra02",
-      "projectPath": "D:\\LTASP\\New folder\\ASPweb\\BaiKiemTra02_\\BaiKiemTra02\\BaiKiemTra02.csproj",
-      "packagesPath": "C:\\Users\\MANH\\.nuget\\packages\\",
-      "outputPath": "D:\\LTASP\\New folder\\ASPweb\\BaiKiemTra02_\\BaiKiemTra02\\obj\\",
+      "projectPath": "D:\\LTW (DNTU)\\baikiemtra02\\BaiKiemTra02\\BaiKiemTra02.csproj",
+      "packagesPath": "C:\\Users\\khoa\\.nuget\\packages\\",
+      "outputPath": "D:\\LTW (DNTU)\\baikiemtra02\\BaiKiemTra02\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\MANH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\khoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8325,7 +8330,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
